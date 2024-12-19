@@ -1,5 +1,7 @@
 <h1>Conversor de Moedas em tempo real</h1>
 
+![Logo do projeto](Badge-Conversor.png)
+
 ## Descrição do projeto
 
 Este projeto foi criado como um desafio para aprender a desenvolver aplicações em Java que se comunicam com APIs externas. Ele aborda conceitos como:
